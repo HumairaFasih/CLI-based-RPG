@@ -8,6 +8,7 @@ The player wins if they consistently make the right choices.
 ## Learning Outcomes
 - Experience with applying intermediate concepts of OOP in C++
 - Extensive practice of controlling code flow with conditional branches
+- Using escape sequences to print colored text on the terminal screen
 
 ## Date Created and Acknowledgement
 This project was made in December 2020. Idea and Storyline developed by Malaik Kabir. Mutual discussion for the conditional branching based on the story.
