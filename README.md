@@ -9,6 +9,7 @@ The player wins if they consistently make the right choices.
 - Experience with applying intermediate concepts of OOP in C++
 - Extensive practice of controlling code flow with conditional branches
 
-
-
+## Date Created and Acknowledgement
+This project was made in April 2021. Idea and Storyline developed by Malaik Kabir. Mutual discussion for the conditional branching based on the story.
+OOP aspects and actual coding by Humaira Fasih (me). 
 
